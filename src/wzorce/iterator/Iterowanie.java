@@ -82,6 +82,9 @@ public class Iterowanie {
                 System.out.println(key+" : "+ map.get(key));
             }       
 //======  Koniec  
+
+
+        System.out.println("dodanie do gita zmiany");
     }
     
 }
