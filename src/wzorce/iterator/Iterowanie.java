@@ -84,6 +84,7 @@ public class Iterowanie {
 //======  Koniec  
 
 
+        System.out.println("dodanie do gita zmiany");
     }
     
 }
