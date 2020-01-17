@@ -41,7 +41,7 @@ public class Iterowanie {
         map.put(2,"dwa");
         map.put(3,"trzy");
         map.put(4,"cztery");
-        map.put(5,"pięć");
+        map.put(5,"piec");
         
         
 //========Pętla FOR EACH======== */ 
